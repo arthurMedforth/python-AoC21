@@ -1161,17 +1161,6 @@ def AoC2021_3a(input_data_list):
     epsilon = ''.join(epsilon)
     return int(gamma,2)*int(epsilon,2)
 
-
-
-
-
-
-
-
-
-
-
-
 def AoC2021_3b(input_data_list):
     met_oxygen_criteria_list = input_data_list
     met_carbon_criteria_list = input_data_list
